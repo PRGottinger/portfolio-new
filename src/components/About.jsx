@@ -1,4 +1,6 @@
 import React from "react";
+import Paul from "../assets/paul.png";
+
 
 const About = () => {
   return (
@@ -20,6 +22,7 @@ const About = () => {
           </div>
 
           <div>
+          
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel
               necessitatibus, placeat repudiandae molestiae id quidem
@@ -27,9 +30,13 @@ const About = () => {
               Doloremque ab incidunt repudiandae sunt asperiores! Temporibus,
               cupiditate.
             </p>
+           
           </div>
+          
         </div>
+       <img className='pt-2' src={Paul} alt='Paul'/>
       </div>
+      
     </div>
   );
 };
