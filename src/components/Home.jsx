@@ -13,7 +13,7 @@ const home = () => {
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
           I'm a full stack developer
         </h2>
-        <p className="text-[#8892b0] py-4 max-w-[700px]">
+        <p className="text-[#ffffff] py-4 max-w-[700px]">
           I'm a developer with a passion for crafting compelling user stories
           and transforming them into exceptionally-designed digital experiences.
           I specialize in working with the MERN stack. I also possess strong
