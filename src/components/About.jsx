@@ -24,7 +24,7 @@ const About = () => {
           <div>
           
             <p>
-              I'm relevtively new to web development, but in the short time I've been a developer, I've quickly grown passionate about learning new technologies and using my web development skills to solve problems and create websites that tell a story. Feel free to reach out if you'd like to connect. Thanks!
+              I'm relatively new to web development, but in the short time I've been a developer, I've quickly grown passionate about learning new technologies and using my web development skills to solve problems and create websites that tell a story. Feel free to reach out if you'd like to connect. Thanks!
             </p>
            
           </div>
