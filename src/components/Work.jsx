@@ -43,7 +43,7 @@ const Work = () => {
                     Code
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://drive.google.com/file/d/1rYvhBbsixd4kvrIXda7dmpMcUPQGaeuY/view">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Video
                   </button>
@@ -73,7 +73,7 @@ const Work = () => {
                     Code
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://drive.google.com/file/d/1JP3mtlenMz5G7-W9_wFYAj402YfNHep6/view">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Video
                   </button>
@@ -127,7 +127,7 @@ const Work = () => {
                     Code
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://drive.google.com/file/d/1TRPmbs2LJF4X7ojKbHKQN-xPWDDzJi-e/view">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Video
                   </button>
@@ -142,7 +142,7 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 pt-14 group-hover:opacity-100">
-              <span className="text-2xl pl-4 font-bold text-white tracking-wider">
+              <span className="text-2xl pl-3 font-bold text-white tracking-wider">
                 Budget App
               </span>
               <div className="pt-4 text-center">
