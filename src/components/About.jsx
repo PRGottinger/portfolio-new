@@ -24,11 +24,7 @@ const About = () => {
           <div>
           
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel
-              necessitatibus, placeat repudiandae molestiae id quidem
-              perspiciatis excepturi magnam assumenda soluta dolorum quaerat!
-              Doloremque ab incidunt repudiandae sunt asperiores! Temporibus,
-              cupiditate.
+              I'm relevtively new to web development, but in the short time I've been a developer, I've quickly grown passionate about learning new technologies and using my web development skills to solve problems and create websites that tell a story. Feel free to reach out if you'd like to connect. Thanks!
             </p>
            
           </div>
