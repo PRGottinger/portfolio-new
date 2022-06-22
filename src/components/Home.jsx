@@ -23,13 +23,11 @@ const home = () => {
           seven years I worked as a journalist and editor in digital media.
         </p>
         <div>
-        <button className="border-2 px-3 py-3 my-2 flex items-center w-15 text-[#ffffff] border-[#b60b0b] hover:bg-[#b60b0b]">
-          
+          <button className="border-2 px-3 py-3 my-2 flex items-center w-15 text-[#ffffff] border-[#b60b0b] hover:bg-[#b60b0b]">
             <Link to="work" spy={true} smooth={true} duration={500}>
-               Checkout my Portfolio
+              Check Out my Portfolio
             </Link>
-          
-        </button>
+          </button>
         </div>
 
         {/* <div>
