@@ -25,7 +25,7 @@ const home = () => {
         <div>
           <button className="border-2 px-3 py-3 my-2 flex items-center w-15 text-[#ffffff] border-[#b60b0b] hover:bg-[#b60b0b]">
             <Link to="work" spy={true} smooth={true} duration={500}>
-              Check Out my Portfolio
+              Check Out My Portfolio
             </Link>
           </button>
         </div>
